@@ -1,76 +1,53 @@
-# 👋 Hola, soy Bernaola Barrientos
+# ¡Bienvenido a mi perfil de GitHub! 👋
 
-Soy un profesional formado en **Ciencia de Datos**, con experiencia como **Analista de Datos**, especializado en transformar datos en soluciones accionables. Manejo herramientas como **Python**, **Power BI**, **SQL**, **Excel** y **Git**, y disfruto construir soluciones basadas en datos que aporten valor y eficiencia a los procesos.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%7C+Analista+de+Datos" alt="Typing SVG" /></a>
 
----
+## [Sobre mí](mailto:bernaola789@gmail.com)
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+¡Hola! Soy un profesional con experiencia como analista de datos, prevencionista de riesgos y cadista topógrafo. Me apasiona aplicar mis habilidades en análisis, visualización de datos y automatización para optimizar procesos en distintos sectores, especialmente en minería y educación. Domino herramientas como Python, Power BI y SQL, y tengo experiencia creando dashboards, estructuras de datos y control de operaciones. Siempre estoy aprendiendo y buscando soluciones creativas a los retos.
 
-## 🛠️ Habilidades Técnicas
+## 💻 [Stack Técnico](#)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 
-- **Lenguajes:** Python, SQL
-- **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV, Tesseract OCR
-- **Herramientas de BI y análisis:** Power BI, Excel (avanzado)
-- **Bases de datos:** MySQL, SQLite
-- **Control de versiones:** Git & GitHub
-- **Entornos:** Jupyter Notebook, VS Code, Orange3
-- **Idiomas:** Español (nativo), Inglés (intermedio)
+- **Análisis de Datos:** Python, Pandas, Numpy, Matplotlib, Power BI, SQL
+- **Inteligencia de Negocios:** Power BI, segmentación, control de avances, automatización con scripts
+- **OCR y Visión Computacional:** Tesseract, OpenCV
+- **Topografía y Minería:** Datamine Studio, cubicaciones 2D/3D, reportes sectorizados
+- **Prevención de Riesgos:** Identificación de peligros, cultura de seguridad, mejora continua
 
----
+## 🚀 [Habilidades Blandas](#)
 
-## 🚀 Proyectos Destacados
+- **Análisis y Solución de Problemas**
+- **Comunicación y Trabajo en Equipo**
+- **Aprendizaje Continuo y Adaptabilidad**
+- **Proactividad y Liderazgo**
+- **Organización y Atención al Detalle**
 
-### 🔢 [Reconocedor de Dígitos](https://github.com/BernaolaBarrientos/Reconocedor_de_digitos)
-Clasificación de dígitos manuscritos con KNN y procesamiento de imágenes.
+## [Proyectos Destacados](#) 🚀
 
-> 🧰 Python, OpenCV, Scikit-learn  
-> 🧠 Visión por computadora, ML supervisado
+### SISTEMA DE CONTROL DE CUADRILLAS MINERAS
+<p align="justify">
+Automatización del registro y control de avances por cuadrilla en minería subterránea. Se estructuró una base de datos con entradas/salidas de materiales, herramientas y equipos. Se implementaron reportes dinámicos para medir el cumplimiento frente a la programación.
+</p>
 
----
+### DASHBOARD DE COSTOS DE PERFORACIÓN Y VOLADURA
+<p align="justify">
+Desarrollo de un panel en Power BI para visualizar y analizar los costos asociados a actividades de perforación y voladura. Se integraron fuentes diversas y se aplicó el modelo estrella para optimizar el rendimiento del reporte.
+</p>
 
-### 🧩 [Sudoku Backtracking Solver](https://github.com/BernaolaBarrientos/Sudoku_backtracking)
-Resuelve sudokus a partir de una imagen con visión por computadora y algoritmo de Backtracking.
-
-> 🧰 Python, OpenCV, Tesseract OCR  
-> 🧠 IA clásica, Algoritmos de búsqueda
-
----
-
-### 🎬 [Análisis de Datos de Películas](https://github.com/BernaolaBarrientos/Data_Film_Analysis)
-EDA y visualizaciones sobre duración, popularidad, presupuesto y más.
-
-> 🧰 Pandas, Matplotlib, Seaborn  
-> 📊 Análisis exploratorio de datos
-
----
-
-### 🛒 [Predicción de Gasto del Consumidor](https://github.com/BernaolaBarrientos/Consumer-Spending-Prediction)
-Modelo de regresión para estimar el gasto según variables demográficas.
-
-> 🧰 Scikit-learn, Pandas  
-> 📈 Regresión lineal, ML supervisado
+### SISTEMA DE DETECCIÓN DE PLACAS VEHICULARES CON PYTHON Y OCR
+<p align="justify">
+Proyecto de visión por computadora en el que se capturan imágenes de placas vehiculares utilizando OpenCV y se aplica Tesseract para la lectura automática de caracteres. Incluye procesos de mejora de imagen y validación de texto.
+</p>
 
 ---
 
-### 💳 [Evaluación Crediticia](https://github.com/BernaolaBarrientos/Evaluacion-Crediticia)
-Clasificación de riesgo crediticio usando balanceo de clases y métricas ROC/AUC.
+📫 Contacto: [bernaola789@gmail.com](mailto:bernaola789@gmail.com)
 
-> 🧰 Scikit-learn, Imbalanced-learn  
-> 🧠 ML supervisado, Finanzas
-
----
-
-### 🗄️ [Data Table + Triggers + Views (SQL)](https://github.com/BernaolaBarrientos/data-table-triggers-views-repo)
-Diseño de base de datos con triggers y vistas para automatización y control de integridad.
-
-> 🧰 SQL (MySQL)  
-> 🛢️ Bases de datos, automatización
-
----
-
-## 📫 Contacto
-
-📧 bernaola789@gmail.com  
-🔗 [GitHub](https://github.com/BernaolaBarrientos)
-
----
-
-✨ Gracias por visitar mi perfil.
+📌 *Siempre dispuesto a colaborar en proyectos de análisis, tecnología y automatización. ¡Conectemos!*
