@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=500&lines=Analista+de+Datos;Científico+de+Datos;Especialista+en+Power+BI;Apasionado+por+la+visualización;Automatizador+de+procesos+con+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=500&lines=Analista+de+Datos;Especialista+Power+BI" alt="Typing SVG" />
 </a>
 
 ## [About Me](https://github.com/pandao/editor.md "Heading link")
@@ -38,15 +38,15 @@
 - **Leadership**: Organization, Leadership, Proactivity, Attention to Detail, Curiosity  
 
 ## [DATA SCIENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
-### Development of data science projects focused on data cleaning and transformation, exploratory analysis, visualization, and predictive modeling. Application of various supervised and unsupervised learning techniques to solve problems across different domains, from prediction and segmentation to pattern detection and optimization. 🚀
+### Development of data science projects focused on data cleaning and transformation, exploratory data analysis, visualization, and predictive modeling. Implementation of various supervised and unsupervised learning techniques to address challenges across multiple domains, including prediction, segmentation, pattern detection, and optimization. 📊
 
 <table>
 <tr>
 <td width="50%">
 <h3>RECONOCEDOR DE DÍGITOS</h3>
 <div>
-<a href="https://github.com/BernaolaBarrientos/Reconocedor_de_digitos" target="_blank"><img src="imagenes/01.jpg" width="100%" alt="Credit Scoring Prediction"></a>
-<p align="justify">Proyecto basado en aprendizaje automático para identificar y reconocer dígitos escritos a mano mediante técnicas de procesamiento de imágenes y clasificación.
+<a href="https://github.com/BernaolaBarrientos/Reconocedor_de_digitos" target="_blank"><img src="imagenes/01.jpg" width="100%" alt="RECONOCEDOR DE DÍGITOS"></a>
+<p align="justify">Proyecto de aprendizaje automático orientado al reconocimiento de dígitos manuscritos mediante técnicas de procesamiento de imágenes, segmentación y clasificación. Implementa modelos entrenados para identificar patrones numéricos con precisión a partir de entradas visuales.
     </p></p>
 <a href="https://github.com/BernaolaBarrientos/Reconocedor_de_digitos" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
@@ -55,40 +55,46 @@
 </td>
 
 <td width="50%">
-<h3>COVID 19 ANALYSIS</h3>
+<h3>SOLUCIONADOR DE SUDOKU CON ALGORITMO DE BACKTRACKING</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Covid 19 Analysis"></a>
-<p align="justify">Análisis y visualización de datos COVID-19 para ayudar a gobiernos de México, Perú y Colombia en la gestión de la pandemia a través de herramientas predictivas.</p>
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<a href="https://github.com/BernaolaBarrientos/Sudoku_backtracking" target="_blank"><img src="imagenes/02.jpg" width="100%" alt="BACKTRACKING"></a>
+<p align="justify">Aplicación en Python que permite leer tableros de Sudoku a partir de imágenes, reconoce los dígitos mediante técnicas de inteligencia artificial y resuelve los puzzles utilizando el algoritmo de backtracking. El proyecto incluye visualización del Sudoku antes y después de ser resuelto, y aborda desafíos en el reconocimiento de dígitos para mejorar la precisión del sistema.</p>
+<a href="https://github.com/BernaolaBarrientos/Sudoku_backtracking" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 </td>
 </tr>
+
+
 
 <tr>
 <td width="50%">
-<h3>CUSTOMER SPENDING PREDICTION</h3>
+<h3>EVALUACIÓN CREDITICIA CON APRENDIZAJE AUTOMÁTICO</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width="100%" alt="Customer Spending"></a>
-<p align="justify">Desarrollo de un modelo de ML para predecir el gasto de usuarios en un sitio de e-commerce, con el fin de personalizar estrategias de venta y marketing.</p>
-<a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/BernaolaBarrientos/Evaluacion-Crediticia" target="_blank"><img src="imagenes/03.jpg" width="100%" alt="EVALUACIÓN CREDITICIA CON APRENDIZAJE AUTOMÁTICO"></a>
+<p align="justify">Modelo predictivo desarrollado en Python para analizar el riesgo crediticio de clientes, basado en datos históricos de una institución financiera alemana. El proyecto aplica técnicas de clasificación supervisada para predecir la probabilidad de incumplimiento, facilitando la toma de decisiones en procesos de otorgamiento de préstamos.</p>
+<a href="https://github.com/BernaolaBarrientos/Evaluacion-Crediticia" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 </td>
 
+
+
 <td width="50%">
-<h3>STORE SALES ANALYSIS</h3>
+<h3>BASE DE DATOS PARA TIENDA ONLINE EN MYSQL</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/store%20sales%20analysis.jpeg" width="100%" alt="Store Sales Analysis"></a>
-<p align="justify">Análisis de ventas de una tienda de moda en Brasil usando SQLite, generando insights clave para mejorar la rentabilidad y toma de decisiones estratégicas.</p>
-<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank">
+<a href="https://github.com/BernaolaBarrientos/data-table-triggers-views-repo" target="_blank"><img src="imagenes/04.jpg" width="100%" alt="BASE DE DATOS PARA TIENDA ONLINE EN MYSQL"></a>
+<p align="justify">Repositorio del proyecto final del curso de Coderhouse, enfocado en el diseño e implementación de una base de datos para una tienda en línea. Incluye modelado relacional, creación de tablas dimensionales, desarrollo de lógica de negocio mediante funciones y triggers, manejo de transacciones automáticas y construcción de vistas para consultas optimizadas.</p>
+<a href="https://github.com/BernaolaBarrientos/data-table-triggers-views-repo" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 </td>
 </tr>
+
+
 
 <tr>
 <td width="50%">
