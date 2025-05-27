@@ -23,44 +23,68 @@
       />
     </a>
   </p>
+<br>
+
+## **🙋‍♂️ About Me**
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+Data Analyst with experience in developing interactive visualizations, process automation, and statistical analysis to support data-driven decision-making. I have strengthened my technical background through specialized training on platforms such as Platzi and Coderhouse, focused on data science, business intelligence, and Python programming.
+
+Proficient in tools like Power BI, advanced Excel, SQL, and core Python libraries including Pandas, NumPy, and scikit-learn. Skilled in transforming large datasets into clear reports, identifying patterns, and building predictive models.
+
+Committed to continuous professional development, with a self-taught mindset and a strong focus on improvement.
+
+<br><br>
 
 
-## [About Me](https://github.com/pandao/editor.md "Heading link")
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## **💻 Tech Stack**
+Languages:  
+<img src="https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-DC8F0F?logo=mysql&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat" />&nbsp;<br>
 
-🎯 Data Analyst with experience in developing interactive visualizations, process automation, and statistical analysis to support data-driven decision-making. I have strengthened my technical background through specialized training on platforms such as Platzi and Coderhouse, focused on data science, business intelligence, and Python programming.
+Frameworks and Libraries:  
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-0E7ACE?logo=numpy&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-white?logo=matplotlib&logoColor=black&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Seaborn-4A87E8?style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Scikit--Learn-F09437?logo=scikit-learn&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-GeoPandas-2E8B57?style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Keras-D00000?style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat" />&nbsp;<br>
 
-🔧 Proficient in tools like Power BI, advanced Excel, SQL, and core Python libraries including Pandas, NumPy, and scikit-learn. Skilled in transforming large datasets into clear reports, identifying patterns, and building predictive models.
-
-🚀 Committed to continuous professional development, with a self-taught mindset and a strong focus on improvement.
-
-## 💻 [Technical Stack](https://github.com/pandao/editor.md "Heading link")
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+Business Intelligence:  
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=black&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=google&logoColor=white&style=flat" />&nbsp;
 
 
-- **Data Analysis:** Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn, scipy, geopandas), SQL, MySQL, PostgreSQL, GitHub, VSCode.
-- **Artificial Intelligence:** OpenCV, TensorFlow, Keras, OCR, NLTK, RNN, CNN, LLM, Anaconda.
-- **Business Intelligence:** Power BI, Tableau.
-- **Industry Tools:** DFG, Wellsight Express, Microsoft Office.
+Industry Tools:  
+<img src="https://img.shields.io/badge/-Wellsight%20Express-0055A5?style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Microsoft%20Office-D24726?logo=microsoft-office&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" />
 
-## 🚀 [Soft Skills](https://github.com/pandao/editor.md "Heading link")
-- **Problem-Solving**: Analytical Reasoning, Initiative  
-- **Communication**: Social and Communication Skills, Teamwork  
-- **Personal Development**: Continuous Learning, Adaptability, Creativity  
-- **Leadership**: Organization, Leadership, Proactivity, Attention to Detail, Curiosity  
+<br>
 
-## [DATA SCIENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
-### Development of data science projects focused on data cleaning and transformation, exploratory data analysis, visualization, and predictive modeling. Implementation of various supervised and unsupervised learning techniques to address challenges across multiple domains, including prediction, segmentation, pattern detection, and optimization. 📊
+## **🚀 Soft Skills**
+✔ Problem-Solving: Analytical Reasoning, Initiative  
+✔ Communication: Social and Communication Skills, Teamwork  
+✔ Personal Development: Continuous Learning, Adaptability, Creativity  
+✔ Leadership: Organization, Leadership, Proactivity, Attention to Detail, Curiosity
 
+
+
+  
+<br>
+
+## **🤖 DATA SCIENCE PROJECTS**
+Development of data science projects focused on data cleaning and transformation, exploratory data analysis, visualization, and predictive modeling. Implementation of various supervised and unsupervised learning techniques to address challenges across multiple domains, including prediction, segmentation, pattern detection, and optimization.
+
+<br>
 <table>
 <tr>
 <td width="50%">
@@ -120,8 +144,9 @@
 </table>
 
 
+<br>
 
-## [⚙️ GitHub Analytics](https://github.com/pandao/editor.md "Heading link")
+## **⚙️ GitHub Analytics**
 
 <p align="center">
   <a href="https://github.com/BernaolaBarrientos">
@@ -137,8 +162,9 @@
 </p>
 
 
+<br>
 
-## [👁️ Visitors](https://github.com/pandao/editor.md "Heading link")
+## **👁️ Visitors**
 
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BernaolaBarrientos/count.svg" />  
