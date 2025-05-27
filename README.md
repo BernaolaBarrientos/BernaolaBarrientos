@@ -122,9 +122,13 @@
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BernaolaBarrientos/count.svg" />  
 </p>
-<!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+
+<!-- GitHub contribution grid snake animation -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</p>
 
 
 
