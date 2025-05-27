@@ -100,7 +100,7 @@
 
 
 
-## ⚙️ GitHub Analytics
+## [⚙️ GitHub Analytics](https://github.com/pandao/editor.md "Heading link")
 
 <p align="center">
   <a href="https://github.com/BernaolaBarrientos">
@@ -117,7 +117,7 @@
 
 
 
-# Number of Visitors 👁️
+## [👁️ Visitors](https://github.com/pandao/editor.md "Heading link")
 
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BernaolaBarrientos/count.svg" />  
