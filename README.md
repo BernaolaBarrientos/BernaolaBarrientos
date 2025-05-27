@@ -93,3 +93,26 @@
 </div>
 </td>
 </tr>
+
+<!-- cerramos tabla -->
+</tr>
+</table>
+
+
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/BernaolaBarrientos">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernaolaBarrientos&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BernaolaBarrientos&theme=github_dark" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernaolaBarrientos&theme=github_dark" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernaolaBarrientos&theme=github_dark" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BernaolaBarrientos&theme=github_dark&utcOffset=-5" />
+</p>
+
+
