@@ -1,8 +1,29 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=5000&pause=6000&center=true&multiline=true&width=1920&height=100&lines=Welcome+to+My+GitHub+Profile!" 
+      alt="Typing SVG"
+      style="width: 100%; height: auto;"
+    />
+  </a>
+</h1>
+  
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=500&lines=Analista+de+Datos;Especialista+Power+BI" alt="Typing SVG" />
-</a>
+  <p align="center">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="about me" />
+  </p>
+  
+
+  <p align="center" style="margin-top: 20px;">
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=1000&pause=1000&repeat=true&color=29F719&background=000000AA&center=true&multiline=true&width=1920&height=130&lines=Data+Analyst;Power+BI+Specialist" 
+        alt="Typing SVG"
+        style="width: 100%; height: auto;"
+      />
+    </a>
+  </p>
+
 
 ## [About Me](https://github.com/pandao/editor.md "Heading link")
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
