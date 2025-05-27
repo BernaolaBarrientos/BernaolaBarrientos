@@ -116,3 +116,15 @@
 </p>
 
 
+
+# Number of Visitors 👁️
+
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/BernaolaBarrientos/count.svg" />  
+</p>
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+
+
+
